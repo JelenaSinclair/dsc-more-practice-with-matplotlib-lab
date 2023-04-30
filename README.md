@@ -1,3 +1,4 @@
+#commit this
 # Customizing Visualizations with Matplotlib - Lab
 
 ## Introduction
